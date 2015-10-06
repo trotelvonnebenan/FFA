@@ -1,0 +1,19 @@
+name: FFA
+version: 1.0
+author: trotelvonnebenan
+
+main: me.trotelvonnebenan.FFA.FFA
+
+commands:
+  ffa:
+    description: FFA Help
+  Reload:
+    description: Reload
+  Spray:
+    description: Spray
+  Stats:
+    description: Stats
+  cc:
+    description: cc
+  kopfgeld:
+    description: kopfgeld
